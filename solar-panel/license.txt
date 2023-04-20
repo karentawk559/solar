@@ -1,0 +1,11 @@
+Model Information:
+* title:	Solar-Panel
+* source:	https://sketchfab.com/3d-models/solar-panel-ff765abe2d324c91899541b43cc40c72
+* author:	Fabian van Dorst (https://sketchfab.com/FabianvanDorst)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Solar-Panel" (https://sketchfab.com/3d-models/solar-panel-ff765abe2d324c91899541b43cc40c72) by Fabian van Dorst (https://sketchfab.com/FabianvanDorst) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
